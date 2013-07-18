@@ -30,3 +30,21 @@ software
 BS ch.8 the problem of silent evidence.
 
 
+
+Redundancies
+
+BS 312. Mother Nature likes redundancies. Three types. 
+
+Defensive. Spare parts, two eyes. Opp: naive optimization. Globalization
+is prone to naive optimization.
+
+Big is ugly and fragile. [connect to Unix philosophy]
+
+  BS 315. Unforeseen errors and random shocks hurt large organisms more
+  than smaller ones.
+
+Species Density section. Large environments with lots of connectivity
+allow more scaling -- but this is a bad thing. It comes at the expense
+of species diverity. Fads will be more acute. [may apply as Ruby
+community size grows bigger]
+
