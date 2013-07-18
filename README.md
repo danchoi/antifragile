@@ -48,3 +48,15 @@ allow more scaling -- but this is a bad thing. It comes at the expense
 of species diverity. Fads will be more acute. [may apply as Ruby
 community size grows bigger]
 
+The redundancy of secondary use (BS 318) is a feature of Unix tools. You
+learn a few commands and then end up being able to apply and combine
+them for unforeseen uses, with less overhead than creating a dedicated
+program for each need as it arises.
+
+Redundancies help deal with unexpected future. Conflicts very sharply
+with teleological design and thinking. BS 318
+
+Are OOP techniques are form of Platonism or antifragilizing?
+
+
+
